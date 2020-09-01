@@ -28,9 +28,8 @@
                                     <TableColumn fx:id="idcolumn" prefWidth="75.0" text="ID" />
                                     <TableColumn fx:id="fnamecolumn" prefWidth="99.0" text="First Name" />
                                     <TableColumn fx:id="lnamecolumn" prefWidth="118.0" text="Last Name" />
-                                    <TableColumn fx:id="emailcolumn" prefWidth="308.0" text="Email" />
-                                    <TableColumn fx:id="dobcolumn" prefWidth="145.0" text="Date of Birth" />
-                                    <TableColumn fx:id="classcolumn" prefWidth="145.0" text="Class" />
+                                    <TableColumn fx:id="emailcolumn" prefWidth="362.0" text="Email" />
+                                    <TableColumn fx:id="dobcolumn" prefWidth="176.0" text="Date of Birth" />
                                  </columns>
                               </TableView>
                            </children>
